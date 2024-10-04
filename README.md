@@ -1,7 +1,7 @@
 # **NFT Market Trends Dashboard**
 
 ### **Overview**
-A Python-based dashboard built with [Dash](https://dash.plotly.com/) and [Plotly](https://plotly.com/) to visualize key NFT market trends, such as sales volume, average price, and active wallets. This dashboard helps users track real-time data in the NFT ecosystem and can be extended to integrate live data from NFT marketplaces like OpenSea.
+A Python-based dashboard built with [Dash](https://dash.plotly.com/) and [Plotly](https://plotly.com/) to visualize key NFT market trends, such as sales volume, average price, and active wallets. This dashboard helps users track real-time data in the NFT ecosystem .
 
 ### **Features**
 - Interactive line and scatter charts.
