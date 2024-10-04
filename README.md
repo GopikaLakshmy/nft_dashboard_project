@@ -13,3 +13,4 @@ A Python-based dashboard built with [Dash](https://dash.plotly.com/) and [Plotly
    ```bash
    git clone https://github.com/yourusername/nft_dashboard_project.git
    cd nft_dashboard_project
+The dashboard will be available at http://127.0.0.1:8050/.
